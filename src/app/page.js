@@ -18,7 +18,7 @@ export default function Home() {
       quests: {
         'S': [
           { title: 'Workout / Gym', goal: '1', metric: 'hour' },
-          { title: 'Hit a PR in Any Exercie', goal: '1', metric: 'PR' },
+          { title: 'Hit a PR in Any Exercise', goal: '1', metric: 'PR' },
           { title: 'Learn About Each Muscle', goal: '1', metric: 'muscle per day' }
         ],
         'A': [
